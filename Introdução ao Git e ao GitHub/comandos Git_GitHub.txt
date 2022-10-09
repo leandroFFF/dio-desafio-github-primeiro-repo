@@ -1,0 +1,11 @@
+##Clonando
+git clone "Endereço do repositório HTTP"
+
+##Entra no repositorio
+cd "caminho"
+
+##verificar status
+git status
+
+##após alterações, atualizar o repositorio enviando as alteraçoes
+git add .

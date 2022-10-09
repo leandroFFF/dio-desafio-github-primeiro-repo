@@ -7,5 +7,9 @@ cd "caminho"
 ##verificar status
 git status
 
-##após alterações, atualizar o repositorio enviando as alteraçoes
+##após alterações, atualizar o repositorio local (git local)
 git add .
+git commit -m "inclusão das anotacoes do curso de Git/GitHub"
+
+##após atualizar o repositorio local, enviar p a nuvem
+git push origin main
